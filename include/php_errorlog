@@ -1,0 +1,4 @@
+[30-Mar-2021 13:22:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function flashMsg() in /home/customer/www/cms.brian-ess.com/public_html/include/log-out.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/cms.brian-ess.com/public_html/include/log-out.php on line 9

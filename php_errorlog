@@ -1,0 +1,72 @@
+[22-Mar-2021 12:14:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/customer/www/cms.brian-ess.com/public_html/include/db-connection.php:7
+Stack trace:
+#0 /home/customer/www/cms.brian-ess.com/public_html/include/db-connection.php(7): mysqli_connect('localhost', 'root', 'root', 'cms')
+#1 /home/customer/www/cms.brian-ess.com/public_html/index.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/cms.brian-ess.com/public_html/include/db-connection.php on line 7
+[22-Mar-2021 12:21:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'bdotstac_wrdp12'@'localhost' (using password: YES) in /home/customer/www/cms.brian-ess.com/public_html/include/db-connection.php:7
+Stack trace:
+#0 /home/customer/www/cms.brian-ess.com/public_html/include/db-connection.php(7): mysqli_connect('localhost', 'bdotstac_wrdp12', 'fmLjaBfqL5uh7vc', 'dbqximhrktmatj')
+#1 /home/customer/www/cms.brian-ess.com/public_html/index.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/cms.brian-ess.com/public_html/include/db-connection.php on line 7
+[22-Mar-2021 12:21:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'bdotstac_wrdp12'@'localhost' (using password: YES) in /home/customer/www/cms.brian-ess.com/public_html/include/db-connection.php:7
+Stack trace:
+#0 /home/customer/www/cms.brian-ess.com/public_html/include/db-connection.php(7): mysqli_connect('localhost', 'bdotstac_wrdp12', 'fmLjaBfqL5uh7vc', 'cms')
+#1 /home/customer/www/cms.brian-ess.com/public_html/index.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/cms.brian-ess.com/public_html/include/db-connection.php on line 7
+[22-Mar-2021 12:22:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'bdotstac_wrdp12'@'localhost' (using password: YES) in /home/customer/www/cms.brian-ess.com/public_html/include/db-connection.php:7
+Stack trace:
+#0 /home/customer/www/cms.brian-ess.com/public_html/include/db-connection.php(7): mysqli_connect('localhost', 'bdotstac_wrdp12', '7mm%9on3({:2', 'dbqximhrktmatj')
+#1 /home/customer/www/cms.brian-ess.com/public_html/index.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/cms.brian-ess.com/public_html/include/db-connection.php on line 7
+[22-Mar-2021 12:23:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'bdotstac_wrdp12'@'localhost' (using password: YES) in /home/customer/www/cms.brian-ess.com/public_html/include/db-connection.php:7
+Stack trace:
+#0 /home/customer/www/cms.brian-ess.com/public_html/include/db-connection.php(7): mysqli_connect('localhost', 'bdotstac_wrdp12', '7mm%9on3({:2', 'cms')
+#1 /home/customer/www/cms.brian-ess.com/public_html/index.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/cms.brian-ess.com/public_html/include/db-connection.php on line 7
+[22-Mar-2021 12:25:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'bdotstac_wrdp12'@'localhost' (using password: YES) in /home/customer/www/cms.brian-ess.com/public_html/include/db-connection.php:7
+Stack trace:
+#0 /home/customer/www/cms.brian-ess.com/public_html/include/db-connection.php(7): mysqli_connect('localhost', 'bdotstac_wrdp12', 'fmLjaBfqL5uh7vc', 'cms')
+#1 /home/customer/www/cms.brian-ess.com/public_html/index.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/cms.brian-ess.com/public_html/include/db-connection.php on line 7
+[22-Mar-2021 12:25:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'bdotstac_wrdp12'@'localhost' (using password: YES) in /home/customer/www/cms.brian-ess.com/public_html/include/db-connection.php:7
+Stack trace:
+#0 /home/customer/www/cms.brian-ess.com/public_html/include/db-connection.php(7): mysqli_connect('localhost', 'bdotstac_wrdp12', 'fmLjaBfqL5uh7vc', 'cms')
+#1 /home/customer/www/cms.brian-ess.com/public_html/index.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/cms.brian-ess.com/public_html/include/db-connection.php on line 7
+[22-Mar-2021 12:25:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'bdotstac_wrdp12'@'localhost' (using password: YES) in /home/customer/www/cms.brian-ess.com/public_html/include/db-connection.php:7
+Stack trace:
+#0 /home/customer/www/cms.brian-ess.com/public_html/include/db-connection.php(7): mysqli_connect('localhost', 'bdotstac_wrdp12', 'fmLjaBfqL5uh7vc', 'cms')
+#1 /home/customer/www/cms.brian-ess.com/public_html/index.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/cms.brian-ess.com/public_html/include/db-connection.php on line 7
+[22-Mar-2021 12:26:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'bdotstac_wrdp12'@'localhost' to database 'cms' in /home/customer/www/cms.brian-ess.com/public_html/include/db-connection.php:7
+Stack trace:
+#0 /home/customer/www/cms.brian-ess.com/public_html/include/db-connection.php(7): mysqli_connect('localhost', 'bdotstac_wrdp12', ']@$lg@2[7|5}', 'cms')
+#1 /home/customer/www/cms.brian-ess.com/public_html/index.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/cms.brian-ess.com/public_html/include/db-connection.php on line 7
+[22-Mar-2021 12:26:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'bdotstac_wrdp12'@'localhost' to database 'cms' in /home/customer/www/cms.brian-ess.com/public_html/include/db-connection.php:7
+Stack trace:
+#0 /home/customer/www/cms.brian-ess.com/public_html/include/db-connection.php(7): mysqli_connect('localhost', 'bdotstac_wrdp12', ']@$lg@2[7|5}', 'cms')
+#1 /home/customer/www/cms.brian-ess.com/public_html/index.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/cms.brian-ess.com/public_html/include/db-connection.php on line 7
+[30-Mar-2021 10:55:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/customer/www/cms.brian-ess.com/public_html/include/db-connection.php:7
+Stack trace:
+#0 /home/customer/www/cms.brian-ess.com/public_html/include/db-connection.php(7): mysqli_connect('localhost', 'root', 'root', 'cms')
+#1 /home/customer/www/cms.brian-ess.com/public_html/index.php(4): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/cms.brian-ess.com/public_html/include/db-connection.php on line 7
+[30-Mar-2021 11:01:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'bdotstac_wrdp12'@'localhost' (using password: YES) in /home/customer/www/cms.brian-ess.com/public_html/include/db-connection.php:7
+Stack trace:
+#0 /home/customer/www/cms.brian-ess.com/public_html/include/db-connection.php(7): mysqli_connect('localhost', 'bdotstac_wrdp12', 'fmLjaBfqL5uh7vc', 'dbqximhrktmatj')
+#1 /home/customer/www/cms.brian-ess.com/public_html/index.php(4): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/cms.brian-ess.com/public_html/include/db-connection.php on line 7
